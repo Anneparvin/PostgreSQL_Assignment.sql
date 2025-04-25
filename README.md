@@ -2,7 +2,7 @@
 ## 📜 Assignment Objective
 This assignment focuses on PostgreSQL database operations. You will create and manage three tables (books, customers, orders), insert sample data, and perform essential SQL queries. Key tasks include CRUD operations, constraints, JOINs, aggregations, filtering, and data manipulation to reinforce your understanding of relational databases.
 
-**Repository Owner:** [Forida-Parven](https://github.com/Eh-haque)  
+**Repository Owner:** [Forida-Parven](https://github.com/Anneparvin/PostgreSQL_Assignment.sql)  
 
 📂 Installation
 Install PostgreSQL
